@@ -15,3 +15,12 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib
 ```python
 from model_training import estimate_price
 print(estimate_price("2025-06-01"))
+
+📈 Visualization
+
+The script also plots actual vs predicted prices for the next 12 months.
+
+👤 Author
+
+Mayank Srivastava
+📫 LinkedIn: https://www.linkedin.com/in/mayank-srivastava-490646365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
