@@ -1,0 +1,6 @@
+Natural-Gas-Price-Prediction/
+│
+├── Nat_Gas.csv
+├── model_training.py       # your main code
+├── README.md               # project overview
+└── requirements.txt        # dependencies
